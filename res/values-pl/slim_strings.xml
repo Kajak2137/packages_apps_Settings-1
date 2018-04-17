@@ -20,9 +20,9 @@
   <string name="advanced_reboot_disabled">Wyłącz</string>
   <string name="advanced_reboot_hide_on_keyguard">Ukryj na ekranie blokady</string>
   <string name="advanced_reboot_show_always">Zawsze pokazuj</string>
-  <!-- About phone screen, Slim version -->
-  <string name="slim_version_title">Wersja Slim</string>
-  <string name="slim_version_default">Nieznany</string>
+  <!-- About phone screen, UsoroOS version -->
+  <string name="usoro_version_title">Wersja UsoroOS</string>
+  <string name="usoro_version_default">Nieznany</string>
   <!-- Reset battery stats -->
   <string name="ok">Ok</string>
   <string name="menu_stats_reset">Zresetuj statystyki</string>

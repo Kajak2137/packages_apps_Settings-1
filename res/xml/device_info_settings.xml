@@ -25,7 +25,6 @@
             <intent android:action="android.settings.SYSTEM_UPDATE_SETTINGS" />
         </PreferenceScreen>
 
-
         <PreferenceScreen android:key="additional_system_update_settings"
                           android:title="@string/additional_system_update_settings_list_item_title">
             <intent android:action="android.intent.action.MAIN"
@@ -39,6 +38,11 @@
                 android:summary="@string/device_status_summary"
                 android:fragment="com.android.settings.deviceinfo.Status">
         </PreferenceScreen>
+
+         <!-- KompotOS logo -->
+         <PreferenceScreen android:key="kompot_logo"
+                 android:enabled="false"
+                 android:layout="@layout/kompot_about_logo" />
 
         <!-- Manual -->
         <PreferenceScreen
@@ -97,10 +101,10 @@
         </PreferenceScreen>
 
         <!-- Slim firmware version -->
-        <Preference android:key="slim_version"
+        <Preference android:key="usoro_version"
                 style="?android:preferenceInformationStyle"
-                android:title="@string/slim_version_title"
-                android:summary="@string/slim_version_default"/>
+                android:title="@string/usoro_version_title"
+                android:summary="@string/usoro_version_default"/>
 
         <!-- Device FCC equipment id -->
         <com.android.settings.DividerPreference

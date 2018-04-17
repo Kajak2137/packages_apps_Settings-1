@@ -16,8 +16,8 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="yes" msgid="4676390750360727396">"Tak"</string>
-    <string name="no" msgid="6731231425810196216">"Nie"</string>
+    <string name="yes" msgid="4676390750360727396">"Да"</string>
+    <string name="no" msgid="6731231425810196216">"нет"</string>
     <string name="create" msgid="3578857613172647409">"Utwórz"</string>
     <string name="allow" msgid="3349662621170855910">"Zezwól"</string>
     <string name="deny" msgid="6947806159746484865">"Odmów"</string>
@@ -30,7 +30,7 @@
       <item quantity="other">Od zostania programistą dzieli Cię już tylko <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> kroku.</item>
       <item quantity="one">Od zostania programistą dzieli Cię już tylko <xliff:g id="STEP_COUNT_0">%1$d</xliff:g> krok.</item>
     </plurals>
-    <string name="show_dev_on" msgid="1110711554982716293">"Jesteś teraz programistą!"</string>
+    <string name="show_dev_on" msgid="1110711554982716293">"Jesteś teraz programistą kuhwo!"</string>
     <string name="show_dev_already" msgid="2151632240145446227">"W porządku, już jesteś programistą."</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">"Sieci zwykłe i bezprzewodowe"</string>
     <string name="header_category_connections" msgid="6471513040815680662">"Połączenia"</string>
@@ -89,10 +89,30 @@
     <!-- no translation found for font_size_preview_text (4818424565068376732) -->
     <skip />
     <string name="font_size_preview_text_headline" msgid="7955317408475392247">"Przykładowy tekst"</string>
-    <string name="font_size_preview_text_title" msgid="1310536233106975546">"Czarnoksiężnik z Krainy Oz"</string>
-    <string name="font_size_preview_text_subtitle" msgid="4231671528173110093">"Rozdział 11: Szmaragdowe Miasto"</string>
-    <string name="font_size_preview_text_body" msgid="1250552239682375643">"Mimo że Dorotka i jej przyjaciele mieli na nosach ochronne zielone okulary, odruchowo zmrużyli oczy, gdy pierwszy raz ujrzeli lśniące wspaniale Szmaragdowe Miasto. Wzdłuż ulic stały równo piękne domy z zielonego marmuru, wysadzane połyskującymi szmaragdami. Chodniki wykonane były z tego samego budulca, a w spojeniach płyt skrzyły się w słońcu całe rzędy osadzonych ciasno szmaragdów. Szyby w oknach były z zielonego szkła. Nawet niebo nad Miastem i promienie słońca miały zielonkawe zabarwienie. \n\nWokół kręciło się mnóstwo ludzi – mężczyzn, kobiet i dzieci – ubranych na zielono. Również ich skóra miała zielony odcień. Patrzyli na Dorotkę i jej barwną kompanię wielkimi, zdziwionymi oczami, a dzieci na widok Lwa uciekały i chowały się za swoimi mamami. Nikt jednak nie odezwał się do nich nawet słowem. Przy ulicy nie brakowało różnych sklepów i Dorotka zauważyła, że cały ich asortyment był zielony: zielone cukierki, zielona prażona kukurydza, zielone buty, zielone kapelusze, wszelkiego rodzaju zielone ubrania. Przy jednym ze stoisk jakiś pan sprzedawał zieloną lemoniadę, za którą dzieci płaciły – jak dostrzegła Dorotka – zielonymi monetami. \n\nNigdzie nie było widać ani koni, ani żadnych innych zwierząt. Do transportu używano zielonych wózeczków, które mieszkańcy pchali przed sobą. Wszyscy wydawali się szczęśliwi, radośni i zadowoleni z życia."</string>
-    <string name="font_size_save" msgid="3450855718056759095">"OK"</string>
+    <string name="font_size_preview_text_title" msgid="1310536233106975546">"Hymn Związku Radzieckiego"</string>
+    <string name="font_size_preview_text_subtitle" msgid="4231671528173110093">"Pierwsza wersja z 1943"</string>
+    <string name="font_size_preview_text_body" msgid="1250552239682375643"> 
+        "Niezłomny jest związek republik swobodnych,
+        Ruś Wielka na wieki złączyła je.
+        Potężna jednością wola narodów,
+        Stworzyła jedyny – ZSRR!
+        \n\nChwała ci, Ojczyzno, ziemio swobody,
+        Ludów przyjaźni ostoja i straż!
+        Partia Lenina, siła ludowa
+        Ku pabiedzie komuny niech wiedzie nas!
+        \n\nSkroś burze świeciło nam słońce swobody,
+        Nas wiódł wielki Lenin, wskazywał nam cel,
+        Ku wielkim czynom zapalał ludy,
+        Do wielkich zapalał nas trudów i dzieł!
+        \n\nChwała ci, Ojczyzno, ziemio swobody,
+        Ludów przyjaźni ostoja i straż!
+        Partia Lenina, siła ludowa
+        Ku pabiedzie komuny niech wiedzie nas!
+        \n\nW zwycięstwie wiecznych idei komunizmu
+        Widzimy jutrzejszy dzień świata i nasz.
+        Czerwonych sztandarów przesławnej ojczyzny
+        Będziemy strzec zawsze – wciąż wierna ich straż."
+    </string>
     <string name="sdcard_setting" product="nosdcard" msgid="8281011784066476192">"Nośnik USB"</string>
     <string name="sdcard_setting" product="default" msgid="5922637503871474866">"Karta SD"</string>
     <string name="bluetooth" msgid="5549625000628014477">"Bluetooth"</string>
@@ -1358,10 +1378,10 @@
     <string name="location_access_title" msgid="7064108942964081243">"Dostęp do mojej lokalizacji"</string>
     <string name="location_access_summary" msgid="69031404093194341">"Zezwalaj aplikacjom, które zapytały o pozwolenie, na używanie informacji o lokalizacji"</string>
     <string name="location_sources_heading" msgid="1278732419851088319">"Źródła lokalizacji"</string>
-    <string name="about_settings" product="tablet" msgid="593457295516533765">"Informacje o tablecie"</string>
-    <string name="about_settings" product="default" msgid="1743378368185371685">"Informacje o telefonie"</string>
-    <string name="about_settings" product="emulator" msgid="221313099578564438">"O emulowanym urządzeniu"</string>
-    <string name="about_settings_summary" msgid="3371517697156165959">"Wyświetl informacje prawne, stan, wersję oprogramowania"</string>
+    <string name="about_settings" product="tablet" msgid="593457295516533765">"Co w kompocie pływa"</string>
+    <string name="about_settings" product="default" msgid="1743378368185371685">"Co w kompocie pływa"</string>
+    <string name="about_settings" product="emulator" msgid="221313099578564438">"O emulowanym kompocie"</string>
+    <string name="about_settings_summary" msgid="3371517697156165959">"Wyświetl informacje prawne, stan, wersję UsoroOS"</string>
     <string name="legal_information" msgid="5769301644270604095">"Informacje prawne"</string>
     <string name="contributors_title" msgid="5917703088825286504">"Współautorzy"</string>
     <string name="manual" msgid="3025943393642974445">"Instrukcja"</string>
